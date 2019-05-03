@@ -1,0 +1,12 @@
+body{
+	background-image: url(https://pmcvariety.files.wordpress.com/2017/11/lord-5.jpg?w=1000&h=563&crop=1);
+    text-align: center;
+    color:yellow;
+}
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
